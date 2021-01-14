@@ -161,6 +161,10 @@ img.rounded-product-img {
   right: 70px;
 }
 
+.newsletter-btn:hover{
+  color: #fff;
+}
+
 /* responsive */
 @media (min-width: 320px) and (max-width: 480px) {
   .navbar-brand img {
