@@ -1,4 +1,4 @@
-#Simple Ecommerce Landing Page
+# Simple Ecommerce Landing Page
 
 ## Technology Used
 * HTML
